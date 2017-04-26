@@ -8,7 +8,7 @@ public class Test extends Date{
 	}
 	
 	public void test(){
-		//dasdasdsdasda
+		//dadasdas
 		System.out.println(getClass().getSuperclass().getName());
 	}
 }
